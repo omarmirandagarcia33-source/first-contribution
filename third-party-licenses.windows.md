@@ -6,7 +6,6 @@ The following open source dependencies are used to build the [cli/cli][] GitHub 
 
 Some packages may only be included on certain architectures or operating systems.
 
-
 - [cel.dev/expr](https://pkg.go.dev/cel.dev/expr) ([Apache-2.0](https://github.com/google/cel-spec/blob/v0.24.0/LICENSE))
 - [cloud.google.com/go](https://pkg.go.dev/cloud.google.com/go) ([Apache-2.0](https://github.com/googleapis/google-cloud-go/blob/v0.121.4/LICENSE))
 - [cloud.google.com/go/auth](https://pkg.go.dev/cloud.google.com/go/auth) ([Apache-2.0](https://github.com/googleapis/google-cloud-go/blob/auth/v0.16.5/auth/LICENSE))
@@ -231,5 +230,6 @@ Some packages may only be included on certain architectures or operating systems
 - [google.golang.org/protobuf](https://pkg.go.dev/google.golang.org/protobuf) ([BSD-3-Clause](https://github.com/protocolbuffers/protobuf-go/blob/v1.36.8/LICENSE))
 - [gopkg.in/yaml.v3](https://pkg.go.dev/gopkg.in/yaml.v3) ([MIT](https://github.com/go-yaml/yaml/blob/v3.0.1/LICENSE))
 - [k8s.io/klog/v2](https://pkg.go.dev/k8s.io/klog/v2) ([Apache-2.0](https://github.com/kubernetes/klog/blob/v2.130.1/LICENSE))
+https://github.com/omarmirandagarcia33-source/first-contributions.gitgi
 
 [cli/cli]: https://github.com/cli/cli
